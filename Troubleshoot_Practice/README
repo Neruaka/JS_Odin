@@ -1,0 +1,4 @@
+The exrecice was to find the errors and fix them.
+There was two errors in the program: 
+the first one was a syntax erro, they spelled the function name wrong, they wrote addeventListener instead of AddEventListener.
+The second error was that they didn't put a class selector in the method querySelector() in line 48, so i had to change it from querySelector(lowOrHi) to querySelector(.lowOrHi) .
