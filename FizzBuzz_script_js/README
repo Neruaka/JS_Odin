@@ -1,0 +1,1 @@
+Making a script that will ask the user for an input and then will display a list from 1 to the number the user entered, but each number that is divisible by 3 will output Fizz, each number that is divisible by 5 will output Buzz and each number that is divisible by both 3 and 5 will output FizzBuzz.
